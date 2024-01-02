@@ -1,0 +1,33 @@
+.profile-animation {
+    animation: profile-animation;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.button-animation {
+    animation: button-animation;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes profile-animation {
+    0% {
+        left: -170px;
+    }
+    100% {
+        left: -30px;
+    }
+}
+
+@keyframes button-animation {
+    0% {
+        transform: rotate(40deg);
+    }
+    100% {
+        transform: rotate(-40deg);
+    }
+}

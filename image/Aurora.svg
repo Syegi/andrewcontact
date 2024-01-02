@@ -1,0 +1,36 @@
+<svg width="575" height="354" viewBox="0 0 575 354" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_3_652)">
+<g clip-path="url(#clip0_3_652)">
+<rect x="17" width="541" height="321" rx="8.8" fill="white"/>
+<g filter="url(#filter1_f_3_652)">
+<circle cx="80.701" cy="76.4463" r="485.114" fill="#350E73"/>
+<circle cx="161.173" cy="-2.74863" r="179.777" fill="#1343EB"/>
+<circle cx="460.231" cy="154.21" r="179.777" fill="#1343EB"/>
+<circle cx="-30.3044" cy="235.678" r="179.777" fill="#29A2FA"/>
+<ellipse cx="413.004" cy="10.9488" rx="204.176" ry="125.168" fill="#7F13EB"/>
+<ellipse cx="328.109" cy="270.807" rx="132.122" ry="125.168" fill="#7F13EB" fill-opacity="0.5"/>
+<path d="M800.095 290.081C800.095 399.453 719.606 488.117 620.318 488.117C521.03 488.117 440.541 399.453 440.541 290.081C440.541 180.709 521.03 92.0457 620.318 92.0457C719.606 92.0457 800.095 180.709 800.095 290.081Z" fill="#7B16EC"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_3_652" x="0.701305" y="0" width="573.597" height="353.597" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="16.2987"/>
+<feGaussianBlur stdDeviation="8.14935"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_652"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_652" result="shape"/>
+</filter>
+<filter id="filter1_f_3_652" x="-526.653" y="-530.907" width="1448.99" height="1214.71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="61.1201" result="effect1_foregroundBlur_3_652"/>
+</filter>
+<clipPath id="clip0_3_652">
+<rect x="17" width="541" height="321" rx="8.8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
